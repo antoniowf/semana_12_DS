@@ -38,3 +38,7 @@ Nesta atividade foi desenvolvida uma página web para reunir sites favoritos, ap
 Na Sociedade da Informação e da Comunicação, cada vez mais conectada à internet por celulares, computadores e diversos outros dispositivos, é essencial que as empresas divulguem seus produtos e serviços por meio de sistemas integrados à web. Esses sistemas permitem maior mobilidade, interação com mídias sociais e acesso a uma grande variedade de recursos.
 
 Por essas razões, a atividade propõe colocar em prática os conhecimentos adquiridos na unidade, criando uma página simples e organizada para armazenar links de sites favoritos.
+
+## Print da página
+
+![Print da página](./images/2026-10-17%2000.06.45%20127.0.0.1%2018870ea8e821.png)
